@@ -55,7 +55,7 @@
  <style lang="scss" scoped>
  .container{
     margin: 0 auto;
-}
+ }
 .section-background {
   background-image: url('../assets/bg-7.jpg');
   background-attachment: fixed;
@@ -87,6 +87,7 @@
        .title-section{
         font-weight: 900;
         font-size: 45px;
+        padding-top: 50px ;
        }
 
 

@@ -4,7 +4,7 @@
          <div class="section_footer">
             <div class="flex_content">
                     </div>
-                     <div class="items-contente">
+                     <div class="items-content">
                              <figure class="logo">
                                 <img class="color_tumb" src="../assets/logo.PNG" alt="">
                              </figure>
@@ -130,19 +130,19 @@ export default {
 
 .container{
     background-color: #11283A;
+    margin: 0 auto;
 }
 .section_footer{
-    max-width: 1280px;
+    margin: 0 auto;
+    max-width: 1080px;
     display: flex;
+    justify-content: center;
     align-items: center;
-    gap: 20px;
+
 }
 
-.flex_content{
-    flex-basis: 25%;
-   
-}
-.items-contente{
+
+.items-content{
     padding: 50px 0;
     color: white;
 
@@ -179,15 +179,18 @@ export default {
 
 
 .items-contente-card{
-    flex-basis: 25%;
+    margin: 0 auto;
+    flex-basis: 22%;
     color: white;
     background-color: rgba(224, 222, 230, 0.08);
-    padding: 30px 35px;
+    padding: 30px 15px;
+   
 } .title_card_footer{
     font-size: 22px;
     padding: 10px 0;    
  
 }
+
 .list_footer_card{
         padding: 7px 0;
         color: rgb(206, 188, 188);
@@ -216,7 +219,7 @@ export default {
     .group_icon_footer_down{
         display: flex;
         gap: 26px;
-        padding-right: 50px ;
+        padding-right: 20px ;
        font-size: 13px;
     }
  }   

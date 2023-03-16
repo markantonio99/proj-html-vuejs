@@ -31,7 +31,6 @@
                                  <option value=""> --Please  choose an option--</option>
                                  <option value="">Sales and Purchasing</option>
                                  <option value="">Financial and Accounts</option>
-                                 <option value="">Spagna</option>
                                  <option value="">Subject Human Resources</option>
                                  <option value="">Another subjects</option>
                               </select>                 

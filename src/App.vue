@@ -2,7 +2,6 @@
     
     <Header />  
     <Main />  
-    <Footer />
     <Home3 />
     <Home4 />
     <Home5 />
